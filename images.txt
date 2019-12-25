@@ -1,0 +1,5 @@
+docker pull romanshelest/userapi:2.2.1 - stable 
+				 2.3.0 - latest
+docker pull romanshelest/frontend:2.2.1 -stable
+				  2.3.1 - latest 
+mongodb, node , react project 
